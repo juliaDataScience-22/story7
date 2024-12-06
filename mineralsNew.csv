@@ -1,0 +1,154 @@
+Mineral,Sources,Relation,Percent Import Reliance
+Aluminum,Canada,Ally,44
+Aluminum,United Arab Emirates,Ally,44
+Aluminum,Bahrain,Ally,44
+Aluminum,Russia,Competitor,44
+Antimony,China,Competitor,82
+Antimony,Belgium,Ally,82
+Antimony,India,Competitor,82
+Antimony,Bolivia,Neutral,82
+Arsenic,China,Competitor,100
+Arsenic,Morocco,Neutral,100
+Arsenic,Malaysia,Ally,100
+Arsenic,Belgium,Ally,100
+Barite,India,Competitor,75
+Barite,China,Competitor,75
+Barite,Morocco,Neutral,75
+Barite,Mexico,Ally,75
+Beryllium,Kazakhstan,Neutral,6
+Beryllium,Japan,Ally,6
+Beryllium,Latvia,Ally,6
+Beryllium,Canada,Ally,6
+Bismuth,China,Competitor,94
+Bismuth,Republic of Korea,Ally,94
+Bismuth,Belgium,Ally,94
+Bismuth,Mexico,Ally,94
+Cerium,Japan,Ally,95
+Cerium,China,Competitor,95
+Cerium,Republic of Korea,Ally,95
+Cerium,Estonia,Ally,95
+Cerium,Austria,Neutral,95
+Cesium,Germany,Ally,100
+Chromium,South Africa,Neutral,74
+Chromium,Kazakhstan,Neutral,74
+Chromium,Russia,Competitor,74
+Chromium,Canada,Ally,74
+Cobalt,Norway,Ally,67
+Cobalt,Canada,Ally,67
+Cobalt,Finland,Ally,67
+Cobalt,Japan,Ally,67
+Dysprosium,China,Competitor,95
+Erbium,China,Competitor,95
+Europium,China,Competitor,95
+Fluorspar,Mexico,Ally,100
+Fluorspar,Vietnam,Neutral,100
+Fluorspar,China,Competitor,100
+Fluorspar,South Africa,Neutral,100
+Gadolinium,China,Competitor,95
+Gallium,Japan,Ally,100
+Gallium,China,Competitor,100
+Gallium,Germany,Ally,100
+Gallium,Canada,Ally,100
+Germanium,Belgium,Ally,50
+Germanium,China,Competitor,50
+Germanium,Canada,Ally,50
+Graphite,China,Competitor,100
+Graphite,Mexico,Ally,100
+Graphite,Canada,Ally,100
+Graphite,Madagascar,Neutral,100
+Hafnium,Germany,Ally,95
+Hafnium,France,Ally,95
+Hafnium,China,Competitor,95
+Hafnium,Russia,Competitor,95
+Holmium,China,Competitor,95
+Indium,Republic of Korea,Ally,100
+Indium,Canada,Ally,100
+Indium,Belgium,Ally,100
+Iridium,United Kingdom,Ally,100
+Iridium,South Africa,Neutral,100
+Iridium,Japan,Ally,100
+Iridium,Germany,Ally,100
+Lanthanum,China,Competitor,100
+Lithium,Argentina,Neutral,25
+Lithium,Chile,Neutral,25
+Lithium,China,Competitor,25
+Lithium,Russia,Competitor,25
+Lutetium,China,Competitor,95
+Magnesium,China,Competitor,52
+Magnesium,Canada,Ally,52
+Magnesium,Israel,Ally,52
+Magnesium,Brazil,Competitor,52
+Magnesium,Taiwan,Ally,52
+Manganese,Gabon,Neutral,100
+Manganese,South Africa,Neutral,100
+Manganese,Australia,Ally,100
+Manganese,Georgia,Neutral,100
+Neodymium,China,Competitor,95
+Nickel,Canada,Ally,57
+Nickel,Norway,Ally,57
+Nickel,Finland,Ally,57
+Nickel,Russia,Competitor,57
+Niobium,Brazil,Competitor,100
+Niobium,Canada,Ally,100
+Palladium,Russia,Competitor,37
+Palladium,South Africa,Neutral,37
+Palladium,Italy,Ally,37
+Palladium,Canada,Ally,37
+Platinum,South Africa,Neutral,83
+Platinum,Switzerland,Neutral,83
+Platinum,Germany,Ally,83
+Platinum,Belgium,Ally,83
+Praseodymium,China,Competitor,95
+Rhodium,Germany,Ally,100
+Rhodium,Belgium,Ally,100
+Rubidium,China,Competitor,100
+Rubidium,Germany,Ally,100
+Rubidium,Russia,Competitor,100
+Ruthenium,South Africa,Neutral,95
+Ruthenium,Germany,Ally,95
+Ruthenium,Japan,Ally,95
+Ruthenium,United Kingdom,Ally,95
+Samarium,China,Competitor,95
+Scandium,Japan,Ally,100
+Scandium,China,Competitor,100
+Scandium,Germany,Ally,100
+Scandium,Philippines,Ally,100
+Tantalum,China,Competitor,100
+Tantalum,Germany,Ally,100
+Tantalum,Australia,Ally,100
+Tantalum,Indonesia,Competitor,100
+Tellurium,Canada,Ally,25
+Tellurium,Germany,Ally,25
+Tellurium,Philippines,Ally,25
+Tellurium,Japan,Ally,25
+Terbium,China,Competitor,95
+Thulium,China,Competitor,95
+Tin,Peru,Neutral,74
+Tin,Bolivia,Neutral,74
+Tin,Indonesia,Competitor,74
+Tin,Malaysia,Ally,74
+Titanium,South Africa,Neutral,75
+Titanium,Madagascar,Neutral,75
+Titanium,Australia,Ally,75
+Titanium,Canada,Ally,75
+Tungsten,China,Competitor,50
+Tungsten,Germany,Ally,50
+Tungsten,Bolivia,Neutral,50
+Tungsten,Vietnam,Neutral,50
+Vanadium,Canada,Ally,58
+Vanadium,Brazil,Competitor,58
+Vanadium,Austria,Neutral,58
+Vanadium,Russia,Competitor,58
+Ytterbium,China,Competitor,95
+Yttrium,China,Competitor,100
+Yttrium,Germany,Ally,100
+Yttrium,France,Ally,100
+Yttrium,Republic of Korea,Ally,100
+Zinc,Canada,Ally,77
+Zinc,Mexico,Ally,77
+Zinc,Peru,Neutral,77
+Zinc,Republic of Korea,Ally,77
+Zirconium,South Africa,Neutral,25
+Zirconium,Australia,Ally,25
+Zirconium,Senegal,Neutral,25
+Zirconium,Russia,Competitor,25
